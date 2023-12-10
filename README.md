@@ -27,5 +27,5 @@ In this project, I want to investigate the impact of investors’ reviews on the
 
 # requirements
 python3.10
-pandas
-keras
+pandas==1.3.0
+pip install keras==2.6.0
