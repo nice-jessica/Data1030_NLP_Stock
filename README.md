@@ -24,3 +24,8 @@ In this project, I want to investigate the impact of investors’ reviews on the
 * README.md Contains the text on this page.
 
 * requirements.txt Python libraries used in the notebooks.
+
+# requirements
+python3.10
+pandas
+keras
